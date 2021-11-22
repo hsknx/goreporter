@@ -20,9 +20,9 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/360EntSecGroup-Skylar/goreporter/linters/simpler/ssa/ssautil"
-	"github.com/360EntSecGroup-Skylar/goreporter/linters/staticcheck/callgraph"
-	"github.com/360EntSecGroup-Skylar/goreporter/linters/staticcheck/callgraph/cha"
+	"github.com/hsknx/goreporter/linters/simpler/ssa/ssautil"
+	"github.com/hsknx/goreporter/linters/staticcheck/callgraph"
+	"github.com/hsknx/goreporter/linters/staticcheck/callgraph/cha"
 	"golang.org/x/tools/go/loader"
 )
 

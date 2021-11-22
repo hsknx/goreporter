@@ -12,8 +12,8 @@ import (
 	"sort"
 	"testing"
 
-	"github.com/360EntSecGroup-Skylar/goreporter/linters/simpler/ssa"
-	"github.com/360EntSecGroup-Skylar/goreporter/linters/simpler/ssa/ssautil"
+	"github.com/hsknx/goreporter/linters/simpler/ssa"
+	"github.com/hsknx/goreporter/linters/simpler/ssa/ssautil"
 	"golang.org/x/tools/go/loader"
 )
 

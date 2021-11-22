@@ -8,7 +8,7 @@ import (
 	"regexp"
 	"sort"
 
-	"github.com/360EntSecGroup-Skylar/goreporter/linters/copycheck/syntax"
+	"github.com/hsknx/goreporter/linters/copycheck/syntax"
 )
 
 type HtmlPrinter struct {

@@ -12,7 +12,7 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/360EntSecGroup-Skylar/goreporter/linters/simpler/ssa"
+	"github.com/hsknx/goreporter/linters/simpler/ssa"
 )
 
 type Future interface {
